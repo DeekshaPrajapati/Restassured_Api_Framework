@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-24T08:40:00Z" name="Default suite" finished-at="2022-08-24T08:40:26Z" duration-ms="25795">
+    <groups>
+    </groups>
+    <test started-at="2022-08-24T08:40:00Z" name="Default test" finished-at="2022-08-24T08:40:26Z" duration-ms="25795">
+      <class name="com.androjavatech4u.testcases.UserTestCase">
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:00Z" name="setUpReport" finished-at="2022-08-24T14:10:00Z" duration-ms="652" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.CreateUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method signature="CreateUser()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:00Z" name="CreateUser" finished-at="2022-08-24T14:10:06Z" duration-ms="5900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUser -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:06Z" name="afterMethod" finished-at="2022-08-24T14:10:06Z" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CreateUser status=SUCCESS method=UserTestCase.CreateUser()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.CreateUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:06Z" name="setUpReport" finished-at="2022-08-24T14:10:06Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.registerUnSuccessfully()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method signature="registerUnSuccessfully()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:06Z" name="registerUnSuccessfully" finished-at="2022-08-24T14:10:08Z" duration-ms="1560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUnSuccessfully -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:08Z" name="afterMethod" finished-at="2022-08-24T14:10:08Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registerUnSuccessfully status=SUCCESS method=UserTestCase.registerUnSuccessfully()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.registerUnSuccessfully()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="registerSuccessfull()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:08Z" name="registerSuccessfull" finished-at="2022-08-24T14:10:09Z" duration-ms="1537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerSuccessfull -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:08Z" name="setUpReport" finished-at="2022-08-24T14:10:08Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.registerSuccessfull()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:09Z" name="afterMethod" finished-at="2022-08-24T14:10:09Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registerSuccessfull status=SUCCESS method=UserTestCase.registerSuccessfull()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.registerSuccessfull()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:09Z" name="setUpReport" finished-at="2022-08-24T14:10:09Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.loginSuccessfull()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method signature="loginSuccessfull()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:09Z" name="loginSuccessfull" finished-at="2022-08-24T14:10:11Z" duration-ms="1213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccessfull -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:11Z" name="afterMethod" finished-at="2022-08-24T14:10:11Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginSuccessfull status=SUCCESS method=UserTestCase.loginSuccessfull()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.loginSuccessfull()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:11Z" name="setUpReport" finished-at="2022-08-24T14:10:11Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.loginUnSuccessfull()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method signature="loginUnSuccessfull()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:11Z" name="loginUnSuccessfull" finished-at="2022-08-24T14:10:12Z" duration-ms="1291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUnSuccessfull -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:12Z" name="afterMethod" finished-at="2022-08-24T14:10:12Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginUnSuccessfull status=SUCCESS method=UserTestCase.loginUnSuccessfull()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.loginUnSuccessfull()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="usersList()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:12Z" name="usersList" finished-at="2022-08-24T14:10:13Z" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usersList -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:12Z" name="setUpReport" finished-at="2022-08-24T14:10:12Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.usersList()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:13Z" name="afterMethod" finished-at="2022-08-24T14:10:13Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=usersList status=SUCCESS method=UserTestCase.usersList()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.usersList()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:13Z" name="setUpReport" finished-at="2022-08-24T14:10:13Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.singleUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method signature="singleUser()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:13Z" name="singleUser" finished-at="2022-08-24T14:10:14Z" duration-ms="768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleUser -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:14Z" name="afterMethod" finished-at="2022-08-24T14:10:14Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=singleUser status=SUCCESS method=UserTestCase.singleUser()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.singleUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="singleUserNotFound()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:14Z" name="singleUserNotFound" finished-at="2022-08-24T14:10:14Z" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleUserNotFound -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:14Z" name="setUpReport" finished-at="2022-08-24T14:10:14Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.singleUserNotFound()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:14Z" name="afterMethod" finished-at="2022-08-24T14:10:14Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=singleUserNotFound status=SUCCESS method=UserTestCase.singleUserNotFound()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.singleUserNotFound()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:14Z" name="setUpReport" finished-at="2022-08-24T14:10:14Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.listResource()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method signature="listResource()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:14Z" name="listResource" finished-at="2022-08-24T14:10:16Z" duration-ms="1301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listResource -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:16Z" name="setUpReport" finished-at="2022-08-24T14:10:16Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.singleResource()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:16Z" name="afterMethod" finished-at="2022-08-24T14:10:16Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=listResource status=SUCCESS method=UserTestCase.listResource()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.listResource()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="singleResource()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:16Z" name="singleResource" finished-at="2022-08-24T14:10:18Z" duration-ms="2023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleResource -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:18Z" name="afterMethod" finished-at="2022-08-24T14:10:18Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=singleResource status=SUCCESS method=UserTestCase.singleResource()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.singleResource()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:18Z" name="setUpReport" finished-at="2022-08-24T14:10:18Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.singleResourceNotFound()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method signature="singleResourceNotFound()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:18Z" name="singleResourceNotFound" finished-at="2022-08-24T14:10:20Z" duration-ms="1799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleResourceNotFound -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:20Z" name="setUpReport" finished-at="2022-08-24T14:10:20Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.delayedResponse()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:20Z" name="afterMethod" finished-at="2022-08-24T14:10:20Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=singleResourceNotFound status=SUCCESS method=UserTestCase.singleResourceNotFound()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.singleResourceNotFound()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="delayedResponse()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:20Z" name="delayedResponse" finished-at="2022-08-24T14:10:24Z" duration-ms="4236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delayedResponse -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:24Z" name="afterMethod" finished-at="2022-08-24T14:10:24Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=delayedResponse status=SUCCESS method=UserTestCase.delayedResponse()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.delayedResponse()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:24Z" name="setUpReport" finished-at="2022-08-24T14:10:24Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.updateUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method signature="updateUser()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:24Z" name="updateUser" finished-at="2022-08-24T14:10:25Z" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:25Z" name="afterMethod" finished-at="2022-08-24T14:10:25Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=updateUser status=SUCCESS method=UserTestCase.updateUser()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.updateUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:25Z" name="setUpReport" finished-at="2022-08-24T14:10:25Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.UserUpdatePatchApi()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method signature="UserUpdatePatchApi()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:25Z" name="UserUpdatePatchApi" finished-at="2022-08-24T14:10:25Z" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserUpdatePatchApi -->
+        <test-method is-config="true" signature="setUpReport(java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:25Z" name="setUpReport" finished-at="2022-08-24T14:10:25Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.deleteUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method signature="deleteUser()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:25Z" name="deleteUser" finished-at="2022-08-24T14:10:26Z" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:25Z" name="afterMethod" finished-at="2022-08-24T14:10:25Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserUpdatePatchApi status=SUCCESS method=UserTestCase.UserUpdatePatchApi()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.UserUpdatePatchApi()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:26Z" name="afterMethod" finished-at="2022-08-24T14:10:26Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleteUser status=SUCCESS method=UserTestCase.deleteUser()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.androjavatech4u.testcases.UserTestCase.deleteUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setUpFlushed()[pri:0, instance:com.androjavatech4u.testcases.UserTestCase@d278d2b]" started-at="2022-08-24T14:10:26Z" name="setUpFlushed" finished-at="2022-08-24T14:10:26Z" duration-ms="593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpFlushed -->
+      </class> <!-- com.androjavatech4u.testcases.UserTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
